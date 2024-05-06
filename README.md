@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 163 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,20 +42,16 @@ Sunday                   258 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Standard ML              11 mins             ███████████████░░░░░░░░░░   58.51 % 
-Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Assembly                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-553-compiler             20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -73,5 +71,5 @@ Standard ML              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fqzz2000/fqzz2000/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:37:24 UTC
+ Last Updated on 06/05/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
