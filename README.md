@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 163 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,5 +71,5 @@ Standard ML              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/fqzz2000/fqzz2000/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:38:30 UTC
+ Last Updated on 16/06/2024 18:38:57 UTC
 <!--END_SECTION:waka-->
